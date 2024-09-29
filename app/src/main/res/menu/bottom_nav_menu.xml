@@ -16,4 +16,9 @@
         android:icon="@drawable/baseline_report_problem_24"
         android:id="@+id/crash"
     />
+    <item
+        android:title="Storage"
+        android:icon="@drawable/baseline_insert_drive_file_24"
+        android:id="@+id/storage"
+        />
 </menu>

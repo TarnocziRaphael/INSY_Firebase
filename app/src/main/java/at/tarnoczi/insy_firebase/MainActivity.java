@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
                 replaceFragment(new GetFragment());
             } else if(item.getItemId() == R.id.crash) {
                 replaceFragment(new CrashFragment());
+            } else if (item.getItemId() == R.id.storage) {
+                replaceFragment(new StorageFragment());
             }
             return true;
         });
