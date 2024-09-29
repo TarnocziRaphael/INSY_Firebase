@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700636859493",
+    "project_id": "insy-m1",
+    "storage_bucket": "insy-m1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700636859493:android:c0dab1eb49c94692b88a8c",
+        "android_client_info": {
+          "package_name": "at.tarnoczi.insy_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0UyBXSz19UzR1dFK7JZnXFj3vMHn4IRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
